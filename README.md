@@ -28,7 +28,7 @@ I believe that continuous learning is crucial in the ever-evolving world of soft
 One of my core principles is the belief in good and clear communication between colleagues. I understand the importance of effective teamwork and believe that open and honest communication fosters a collaborative and productive work environment.
 
 ## 📫 Let's Connect
-I'm always open to new collaborations, and discussions. Feel free to reach out to me through LinkedIn or Emmail. Let's make the world of software development a better place together!
+I'm always open to new collaborations, and discussions. Feel free to reach out to me through LinkedIn or Email. Let's make the world of software development a better place together!
 Looking forward to connecting with you! 😊
 
 * 👔 [LinkedIn](https://www.linkedin.com/in/robbinj/)
